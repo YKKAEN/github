@@ -1,0 +1,38 @@
+/* CSS code for styling a heading element */
+h1 {
+  color: blue; /* Set text color to blue */
+  font-size: 24px; /* Set font size to 24 pixels */
+  font-weight: bold; /* Set font weight to bold */
+  text-align: center; /* Center-align the text */
+  margin-top: 20px; /* Add some top margin */
+}
+
+/* CSS code for styling a paragraph element */
+p {
+  color: #333; /* Set text color to a dark gray */
+  font-size: 16px; /* Set font size to 16 pixels */
+  line-height: 1.5; /* Set line height to 1.5 times the font size */
+}
+
+/* CSS code for styling a button element */
+button {
+  background-color: #007bff; /* Set background color to blue */
+  color: #fff; /* Set text color to white */
+  padding: 10px 20px; /* Add padding to the button */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add rounded corners */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+/* CSS code for styling a link element */
+a {
+  color: #007bff; /* Set link color to blue */
+  text-decoration: none; /* Remove underlines from links */
+}
+
+/*!* CSS code for a simple container *!*/
+/*.container {*/
+/*  max-width: 960px; !* Set maximum container width *!*/
+/*  margin: 0 auto; !* Center the container horizontally *!*/
+/*  padding: 20px; !* Add padding inside the container *!*/
+/*}*/
