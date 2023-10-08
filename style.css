@@ -30,9 +30,9 @@ a {
   text-decoration: none; /* Remove underlines from links */
 }
 
-/*!* CSS code for a simple container *!*/
-/*.container {*/
-/*  max-width: 960px; !* Set maximum container width *!*/
-/*  margin: 0 auto; !* Center the container horizontally *!*/
-/*  padding: 20px; !* Add padding inside the container *!*/
-/*}*/
+/* CSS code for a simple container */
+.container {
+  max-width: 960px; /* Set maximum container width */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px; /* Add padding inside the container */
+}
