@@ -9,9 +9,9 @@ class Person {
   }
 }
 
-// Create an instance of the Person class
-const person1 = new Person("Alice", 30);
-
-// Call the displayInfo method to display the information
-person1.displayInfo();
+// // Create an instance of the Person class
+// const person1 = new Person("Alice", 30);
+//
+// // Call the displayInfo method to display the information
+// person1.displayInfo();
 
